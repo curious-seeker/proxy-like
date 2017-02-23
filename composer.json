@@ -1,0 +1,12 @@
+{
+    "require": {
+    	"pear/net_url2" : "*",
+   	"pear/http_request2" : "*"
+    },
+    "repositories": [
+        {
+            "type": "pear",
+            "url": "http://github.com/"
+        }
+    ]
+}
